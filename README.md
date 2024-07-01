@@ -42,7 +42,7 @@ The `pointwise_reference_based_judgement_1` and `pointwise_reference_based_judge
 
 ### Referenced Pointwise Grading to Referenced Pairwise Comparison ($f_{P2P}$ in Path#1)
 
-To acquire the referenced pairwise comparison results from referenced pointwise grading results ($$f_{P2P}$$ in Path#1 in our paper), run this command:
+To acquire the referenced pairwise comparison results from referenced pointwise grading results ($f_{P2P}$ in Path#1 in our paper), run this command:
 
 ```bash
 cd data
@@ -57,7 +57,7 @@ The `pointwise_reference_based_to_pairwise_judgement` field is the referenced pa
 
 ### Referenced Pairwise Comparison to Reference-Free Pairwise Comparison ($f_{R2RF}$ in Path#1)
 
-To acquire the reference-free pairwise comparison results from reference-based pairwise comparison results ($$f_{R2RF}$$ in Path#1 in our paper), run this command:
+To acquire the reference-free pairwise comparison results from reference-based pairwise comparison results ($f_{R2RF}$ in Path#1 in our paper), run this command:
 
 ```bash
 cd data
@@ -72,7 +72,7 @@ The `pairwise_reference_based_to_reference_free_judgement` field is the referenc
 
 ### Referenced Pointwise Grading to Reference-Free Pointwise Grading ($f_{R2RF}$ in Path#2)
 
-To acquire the reference-free pointwise grading results from referenced pointwise grading results ($$f_{R2RF}$$ in Path#2 in our paper), run this command:
+To acquire the reference-free pointwise grading results from referenced pointwise grading results ($f_{R2RF}$ in Path#2 in our paper), run this command:
 
 ```bash
 cd data
@@ -87,7 +87,7 @@ The `pointwise_reference_free_judgement_1` and `pointwise_reference_free_judgeme
 
 ### Reference-Free Pointwise Grading to Reference-Free Pairwise Comparison ($f_{P2P}$ in Path#2)
 
-To acquire the reference-free pairwise comparison results from reference-free pointwise grading results ($$f_{P2P}$$ in Path#2 in our paper), run this command:
+To acquire the reference-free pairwise comparison results from reference-free pointwise grading results ($f_{P2P}$ in Path#2 in our paper), run this command:
 
 ```bash
 cd data
