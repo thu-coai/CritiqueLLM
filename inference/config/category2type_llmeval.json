@@ -1,0 +1,19 @@
+{
+    "Factual_questions": "事实与解释型回答",
+    "Open_questions": "生成型回答",
+    "Translation": "生成型回答",
+    "Reading_Comprehension": "逻辑推理型回答",
+    "Story_Generation": "生成型回答",
+    "Reasoning": "逻辑推理型回答",
+    "Rewrite": "事实与解释型回答",
+    "Retrieval": "事实与解释型回答",
+    "Poetry": "生成型回答",
+    "Math_Solving": "逻辑推理型回答",
+    "Summary": "生成型回答",
+    "Role_playing": "事实与解释型回答",
+    "Classification": "逻辑推理型回答",
+    "Outline_Generation": "生成型回答",
+    "Paragraph_Generation": "生成型回答",
+    "Conversation": "生成型回答",
+    "Code": "逻辑推理型回答"
+}
